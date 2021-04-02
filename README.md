@@ -7,7 +7,7 @@ Zuri training Task: Create a Simple Server to do the following:
 
 sample code is shown below
 
-
+![allcode](https://user-images.githubusercontent.com/35394098/113405990-60f48a00-93b3-11eb-849c-e530b2defd7a.png)
 ![listen](https://user-images.githubusercontent.com/35394098/113408040-402e3380-93b7-11eb-986c-f96620bc4d03.png)
 
 The server is listening on port 3000
