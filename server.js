@@ -9,7 +9,7 @@ const server = http.createServer((req, res) => {
         res.writeHead(200, { "Content-Type": "text/plain" });
         res.end("Hello from the server");
     } else if (url_path === "/about") {
-        // if url === '/about'return json data about me
+        // if url === '/about'return json data about_me
         res.writeHead(200, { "Content-Type": "application/json" });
         const about_me = {
             name: "Isaac",
